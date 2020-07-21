@@ -1,4 +1,11 @@
+
 ### Hi there 👋
+Meu nome é Ramon R. Pêgo, atualmente trabalho para [Digitaliza](https://www.digitaliza.com.br).
+Sou desenvolvedor backend, trabalho principalmente com Laravel desde sua versão 5.4.
+Também cuido dos servidores da empresa, tenho conhecimento em WHM/CPanel.
+- 🔭 Estou atualmente pensando em um blog que ficará disponivel em [ramonpego.dev](https://ramonpego.dev)
+- 🌱 Estudando Laravel livewire e VueJS, focado principalmente em Livewire
+- ⚡ Sou praticamente um tijolo em **criação** de layouts quando se trata em código, apesar que não sou ruim para pensa-los .
 
 <!--
 **ramonpego/ramonpego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +18,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
