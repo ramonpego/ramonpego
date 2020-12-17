@@ -5,7 +5,7 @@ Sou desenvolvedor backend, trabalho principalmente com Laravel desde sua versão
 Também cuido dos servidores da empresa, tenho conhecimento em WHM/CPanel.
 - 🔭 Estou atualmente pensando em um blog que ficará disponivel em [ramonpego.dev](https://ramonpego.dev)
 - 🌱 Estudando Laravel livewire e VueJS, focado principalmente em Livewire
-- ⚡ Sou praticamente um tijolo em **criação** de layouts quando se trata em código, apesar que não sou ruim para pensa-los .
+- ⚡ Sou praticamente incriativo quando se trata  **criação** de layouts, apesar que não sou ruim para pensa-los.
 
 <!--
 **ramonpego/ramonpego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
